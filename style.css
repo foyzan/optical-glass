@@ -280,7 +280,7 @@ body {
         object-position: center;
     }
 
-    .banner2>img:nth-child(1)
+    .banner2>img:nth-child(2)
     {
         object-position: right;
     }
